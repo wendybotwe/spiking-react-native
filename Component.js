@@ -17,10 +17,6 @@ const Component = () => {
             Here's some text to see if it will wrap correctly when the window size is changed. Here's a bit more text for the same reason.
           </Text>
         </View>
-
-        <Text style={styles.text}>Count: {count}</Text>
-
-        <Button title="Increase the count" onPress={() => setCount(count + 1)} />
       </View>
     </SafeAreaView>
   );

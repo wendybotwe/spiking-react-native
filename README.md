@@ -9,3 +9,6 @@ npm install react@19.1.0 react-dom@19.1.0
 
 npx expo start --web  
 (to view in chrome)
+
+npm install react-native-vector-icons
+(styling components)
